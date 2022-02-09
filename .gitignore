@@ -2,3 +2,6 @@
 /target/
 /target/work/
 /target/work/plugins/
+/.slcache/
+/.idea/
+/.asscache
